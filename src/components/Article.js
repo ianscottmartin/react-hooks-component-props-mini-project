@@ -1,6 +1,6 @@
 import React from "react";
 
-function Article({ title, date = "January 1, 1970", preview, minutes }) {
+function Article({ title, date = "January 1, 1970", preview }) {
 
 
     return (

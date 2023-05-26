@@ -8,6 +8,9 @@ function About({ about, image = "https://via.placeholder.com/215" }) {
             <p>{about}</p>
         </aside>
 
+
+
+    
     );
 }
 
